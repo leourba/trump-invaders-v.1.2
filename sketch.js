@@ -33,6 +33,7 @@ function draw() {
   background(51);
 
   if (invaders.length == 0 && invaders2.length==0) {
+    fill(200,100,50);
     text('felicitaciones, GANASTE!', 400, height / 2);
   }
 
