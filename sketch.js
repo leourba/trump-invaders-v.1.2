@@ -8,7 +8,7 @@ var shipimg;
 var bulletimg;
 
 function preload() {
-  img = loadImage('https://raw.githubusercontent.com/leourba/trump-invaders-v.1.1/master/images/trump.PNG');
+  img = loadImage('https://raw.githubusercontent.com/leourba/trump-invaders-v.1.2/master/images/trump.PNG');
   shipimg = loadImage('https://raw.githubusercontent.com/leourba/trump-invaders-v.1.1/master/images/ship.png');
   bulletimg = loadImage('https://raw.githubusercontent.com/leourba/trump-invaders-v.1.1/master/images/bullet.png');
   invader2img = loadImage('https://raw.githubusercontent.com/leourba/trump-invaders-v.1.1/master/images/obama.png');
